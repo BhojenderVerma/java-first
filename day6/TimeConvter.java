@@ -1,0 +1,1 @@
+// time convert GMT(greenwich mean time) to IST (indian standerd time) here hour will take as 24 hours
