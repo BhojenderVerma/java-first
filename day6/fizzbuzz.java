@@ -9,6 +9,7 @@ public class fizzbuzz{
         //                 break;
         //     case a % 5 == 0: System.out.println("buzz");
         //                 break;
+        //
         if (num % 3 == 0 && num % 5 != 0){
             System.out.println("fizz");
         }else if (num % 5 == 0 && num % 3 != 0){
