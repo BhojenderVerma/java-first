@@ -3,6 +3,7 @@ public class PassFail{
         int marks = 18;
         String reportcard = marks>=33 ? "pass":"fail";
         System.out.print(reportcard);
+        // this file is now commied by bhojender verma
 
     }
 }
