@@ -6,7 +6,8 @@ public class q1{
         float b = scn.nextFloat();
         float c = scn.nextFloat();
         float avg = (a + b + c) / 3 ;
-        System.out.print(avg);
+        System.out.println(avg);
+        
 
     }
 }
