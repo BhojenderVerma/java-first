@@ -18,8 +18,8 @@ public class binery_search{
         }return-1;
     }
     public static void main(String args[]){
-        int numbers[] = {2,4,6,8,12,5,7};
-        int key = 5;
+        int numbers[] = {1,2,3,4,5,6}; //{2,4,6,8,12,5,7};
+        int key = 4;
         System.out.println("your index number is : " +BinerySerch(numbers,key));
     }
 }
